@@ -1,5 +1,2 @@
-jkggjjjhj
-fghjk
-test
-major change
-patch 
+tag test demo
+Trying to bump major version for feature
